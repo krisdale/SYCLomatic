@@ -381,14 +381,8 @@ Find More
 
    * - Content
      - Description
-   * - |compiler_dev_guide|_
-     - Developer guide and reference for the Intel® oneAPI DPC++/C++ Compiler.
-   * - `SYCL 2020 Specification <https://www.khronos.org/registry/SYCL/specs/sycl-2020/pdf/sycl-2020.pdf>`_
-     - The SYCL 2020 Specification PDF.
-   * - |dpcpp_compiler|_
-     - Intel branded C++ compiler built from the open-source oneAPI DPC++ Compiler, with additional Intel hardware optimization.
-   * - |oneapi_dpcpp_compiler|_
-     - Open-source Intel LLVM-based compiler project that implements compiler and runtime support for the SYCL* language.
+   * - `Migrate from CUDA* to C++ with SYCL* <https://www.intel.com/content/www/us/en/developer/tools/oneapi/training/migrate-from-cuda-to-cpp-with-sycl.html>`_
+     - Migration portal that provides examples, case studies, and resources for migrating CUDA code to SYCL code.
    * - `Basic migration samples <https://github.com/oneapi-src/oneAPI-samples/tree/master/Tools/Migration>`_
      - Sample CUDA projects with instructions on migrating to SYCL using the tool.
    * - Guided migration samples
@@ -402,5 +396,13 @@ Find More
      - Catalog of CUDA projects that have been migrated to SYCL.
    * - |sycl_forum|_
      - Forum to get assistance when migrating your CUDA code to SYCL.
+   * - `SYCL 2020 Specification <https://www.khronos.org/registry/SYCL/specs/sycl-2020/pdf/sycl-2020.pdf>`_
+     - The SYCL 2020 Specification PDF.
+   * - |compiler_dev_guide|_
+     - Developer guide and reference for the Intel® oneAPI DPC++/C++ Compiler.
+   * - |dpcpp_compiler|_
+     - Intel branded C++ compiler built from the open-source oneAPI DPC++ Compiler, with additional Intel hardware optimization.
+   * - |oneapi_dpcpp_compiler|_
+     - Open-source Intel LLVM-based compiler project that implements compiler and runtime support for the SYCL* language.
    * - `Intel® oneAPI Math Kernel Library Link Line Advisor <https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-link-line-advisor.html>`_
      - Intel® oneAPI Math Kernel Library tool to help determine how to include oneMKL libraries for your specific use case.
